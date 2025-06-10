@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/dec868d7-4bde-4d89-af13-15a875980c3e/thumbnail" >
+</p>
