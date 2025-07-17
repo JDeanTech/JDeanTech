@@ -24,8 +24,8 @@
 
 ## 🧰 Toolbox
 
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html)  
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS)  
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)  
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333?style=flat&logo=salesforce)  
