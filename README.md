@@ -21,3 +21,5 @@
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/dec868d7-4bde-4d89-af13-15a875980c3e/thumbnail" >
 </p>
+
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
