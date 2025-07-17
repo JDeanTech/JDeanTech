@@ -1,19 +1,19 @@
-## Hi there 👋
+# Hi there My name is Joshua Dean. 👋
 
-<!--
-**JDeanTech/JDeanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineer | 🛠️ DevOps Enthusiast | ☕ Code & Coffee Guy
 
-Here are some ideas to get you started:
+## I am a Systems Engineer/Tech Lead for a web based applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :🌱 What I'm Building My Skills In
+
+- ⚙️ Automating code check-ins and CI/CD pipelines using Docker and Portainer
+- 🧠 Developing no-code applications in Salesforce and keeping metadata version-controlled
+- 🐍 Advancing my Python skills through the Boot.dev backend developer pathway
+- ☁️ Building AWS serverless infrastructure with Lambdas, ECS Fargate, and Terraform
+- 🎨 Exploring web development to create clean, creative websites using HTML, CSS, and JavaScript
+
+### ⚡ Fun fact: ...
+
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/dec868d7-4bde-4d89-af13-15a875980c3e/thumbnail" >
 </p>
