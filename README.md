@@ -22,4 +22,12 @@
   <img src="https://api.boot.dev/v1/users/public/dec868d7-4bde-4d89-af13-15a875980c3e/thumbnail" >
 </p>
 
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk)  
+![Salesforce](https://img.shields.io/badge/-Salesforce-333?style=flat&logo=salesforce)  
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)  
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)  
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
